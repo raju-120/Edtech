@@ -10,7 +10,10 @@
 .h-size{
     font-size: 25px;
 }
-@media screen only(max-width: 576px) {
+.p-size{
+    font-size: 45px;
+}
+@media screen only (max-width: 576px) {
     
     .media-query{
         d-flex: wrap;
