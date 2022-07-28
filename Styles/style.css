@@ -1,0 +1,19 @@
+.course-head{
+    color: #1D1D1D;
+}
+.ed-discover-head{
+    color: #4A4A4A;
+}
+.edtech-discover-p{
+    color: #777777;
+}
+.h-size{
+    font-size: 25px;
+}
+@media screen only(max-width: 576px) {
+    
+    .media-query{
+        d-flex: wrap;
+    }
+    
+}
